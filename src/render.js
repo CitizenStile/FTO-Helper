@@ -1,9 +1,7 @@
 /*
  * FTO - Render
- * 
  */
 
-var FTO.Render.Footer = "";
 
 FTO.Render.CreateFooter = function() {
     FTO.Render.Footer = document.createElement('div');
